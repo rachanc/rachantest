@@ -1,0 +1,3 @@
+function testPrint(){
+	alert('print');
+}
